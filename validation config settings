@@ -1,0 +1,3 @@
+<appSettings>
+<add key="Validationsettings:unobtrusivevalidationMode" value="None"/>
+</appsettings>
