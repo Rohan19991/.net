@@ -1,3 +1,6 @@
 <appSettings>
 <add key="Validationsettings:unobtrusivevalidationMode" value="None"/>
 </appSettings>
+
+Button event
+page.ClientScript.RegisterStartupScript(This.GetType(),"Scripts","<script>alert('Your Form has been submitted.)</script>)
